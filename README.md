@@ -1,5 +1,3 @@
-# praise-animation
+# praise
 
-直播无限点赞动画，使用两种方式实现 Canvas
-
-![image1](./images/bubble8.gif)
+直播无限点赞动画，使用 Canvas
